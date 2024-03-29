@@ -27,6 +27,21 @@ To learn more about Next.js, take a look at the following resources:
 - [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
 - [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
+
+
+
+The compmemts are taken from Aceternity UI . 
+please take a view at Aceternity UI( https://ui.aceternity.com/   )
+
+please add more components to the site to make it majestic and feel realistic.
+
+I heartly want you to contribute on this as an open source project please do contribute and pull request will be merged after viewing. 
+
+Happy Coding ...
+
+
+
+
 You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
 
 ## Deploy on Vercel
